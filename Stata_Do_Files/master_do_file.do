@@ -1,4 +1,4 @@
-//Change Directory
+//Please Clone the files in Drive C
 cd "C:\"
 //making a folder
 mkdir codingproject
